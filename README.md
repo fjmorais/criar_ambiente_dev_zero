@@ -169,6 +169,9 @@ poetry init
 
 Figura 06 - Executando poetry init.
 
+#ATENÇÃO:
+###Caso o comando "poetry init" não seja executado com sucesso, efetuar a instalação com base na url abaixo.
+Link: https://medium.com/@mronakjain94/comprehensive-guide-to-installing-poetry-on-ubuntu-and-managing-python-projects-949b49ef4f76
 
 Executar o comando poetry env use 3.11.5 para utilizar o pyenv local disponibilizado:
 
