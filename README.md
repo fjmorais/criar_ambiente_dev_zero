@@ -142,6 +142,10 @@ Figura 05 - Configurando o pyenv local 3.11.5.
 #ATENÇÃO: Caso não possua o pyenv instalado, executar o processo de instalação tendo como base o link abaixo.
 Link: https://www.vivaolinux.com.br/dica/Instalando-o-pyenv-no-Linux-Mint-e-Ubuntu
 
+Instalando a versão do python 3.11.5:
+```bash
+pyenv install -v 3.11.5
+```
 Criar o arquivo poetry init:
 
 Esse comando vai criar um arquivo na pasta do projeto denominada "pyprojeto.toml"
