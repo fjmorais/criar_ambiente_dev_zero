@@ -294,7 +294,7 @@ Figura 16 - Executando o Isort
 
 # Garantindo a avaliação do projeto
 
-Vimos o uso do Flake8, Black e do Isort. Como garantir que todos os três programas sempre serão executando para validação do projeto. Deixar isso a cargo do desenvolvedor pode ser um problema para avaliação.
+Vimos o uso do Flake8, Black e do Isort. Como garantir que todos os três programas sempre serão executados para validação do projeto? Deixar isso a cargo do desenvolvedor pode ser um problema para avaliação.
 
 Existe o conceito de PRE-COMMIT no Git hub, que faz a executação dos comandos em escopo de projeto para avaliar os arquivos que serão submetidos ao commit, para saber se estão seguindo as boas práticas de desenvolvimento.
 
