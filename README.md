@@ -139,6 +139,8 @@ pyenv local 3.11.5
 
 Figura 05 - Configurando o pyenv local 3.11.5.
 
+#ATENÇÃO: Caso não possua o pyenv instalado, executar o processo de instalação tendo como base o link abaixo.
+Link: https://www.vivaolinux.com.br/dica/Instalando-o-pyenv-no-Linux-Mint-e-Ubuntu
 
 Criar o arquivo poetry init:
 
