@@ -209,7 +209,7 @@ Flake 8 - Validação do seu código com base nas regras de desenvolvimento esta
 Depois do Flake 8 instalado, avaliar o arquivo main para saber se o mesmo possui ajustes a serem feitos.
 
 ```
-poetry run main.py
+poetry run flake8 main.py
 ```
 
 ![alt text](pic/01_image.png)
