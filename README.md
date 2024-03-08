@@ -146,6 +146,16 @@ Instalando a versão do python 3.11.5:
 ```bash
 pyenv install -v 3.11.5
 ```
+
+Validando ser a versão local foi aplicada com sucesso:
+```bash
+pyenv versions
+```
+
+![image](https://github.com/fjmorais/criar_ambiente_dev_zero/assets/40808066/c0143c91-393b-420f-add2-66a1d69cee32)
+
+
+
 Criar o arquivo poetry init:
 
 Esse comando vai criar um arquivo na pasta do projeto denominada "pyprojeto.toml"
