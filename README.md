@@ -201,7 +201,7 @@ Figura 08 - Poetry shell.
 No ambiente shell dedicado para o python 3.11.5, vamos adicionar as bibliotecas.
 
 ```
-poetry add flake 8
+poetry add flake8
 ```
 
 Flake 8 - Validação do seu código com base nas regras de desenvolvimento estabelecidas na PEP8
